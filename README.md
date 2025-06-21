@@ -1,1 +1,3 @@
-Exercicios da prova doGC
+RESOLUÇÃO DOS EXERCICIOS
+
+Exercicios da prova do GC
